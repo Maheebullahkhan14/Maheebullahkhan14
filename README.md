@@ -13,8 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4> Programming skills </h4>
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">  </a> <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/rstudio.jpg" width="40" height="40"/>
+<p <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 
 
