@@ -1,34 +1,16 @@
-
-<h2 align="left">Hi There!👋, I'm Khan Maheebullah</h2>
-
-#### A passionate Data Analyst having skills to explore the data and gathering insights from the data . Great story-teller using Impact Visualisation  on Tableau
-
-🤝 I’m looking for help with **seeking roles that cultivates my passion and help me  to grow**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/khan-maheebullah-nisar-ahmed-8b54641b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maheebullahkhan14" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h4> Programming skills </h4>
-
-<p <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+# 💫 About Me:
+🔭 I’m currently working on Js-Projects<br>🤝 I’m looking for help with Frontend-Development<br>🌱 I’m currently learning Javascript ❤<br>💬 Ask me about Web Development<br>⚡ Fun fact Electrical Engineering Learning Web Dev
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khan Maheebullah Nisar Ahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Khan Maheebullah Nisar Ahmed) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maheebullahkhan14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maheebullahkhan14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheebullahkhan14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<h4> Databases </h4>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
- <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/microsoft-sql-server-logo.png" width="65" height="50"/>
-
-
-<h4> Data Visualization </h4>
-<img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/tableau.png" width="60" height="40"/> 
-
- 
-
-
-<h4> Other </h4>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+---
+[![](https://visitcount.itsvg.in/api?id=Maheebullahkhan14&icon=0&color=0)](https://visitcount.itsvg.in)
