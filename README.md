@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Js-Projects<br>🤝 I’m looking for help with Frontend-Development<br>🌱 I’m currently learning Javascript ❤<br>💬 Ask me about Web Development<br>⚡ Fun fact Electrical Engineering Learning Web Dev
+🔭 I’m currently working on ReactJs-Projects<br>🤝 I’m looking for help with Frontend-Development<br>🌱 I’m currently learning Reactjs ❤<br>💬 Ask me about Web Development<br>⚡ Fun fact Electrical Engineering Learning Web Dev
 
 
 ## 🌐 Socials:
